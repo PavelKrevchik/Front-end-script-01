@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/%20//PavelKrevchik.github.io/Front-end-script-01/static/css/main.073c9b0a.css",
-    "main.js": "/%20//PavelKrevchik.github.io/Front-end-script-01/static/js/main.8adc24d8.js",
-    "static/js/787.177e23c2.chunk.js": "/%20//PavelKrevchik.github.io/Front-end-script-01/static/js/787.177e23c2.chunk.js",
-    "index.html": "/%20//PavelKrevchik.github.io/Front-end-script-01/index.html",
-    "main.073c9b0a.css.map": "/%20//PavelKrevchik.github.io/Front-end-script-01/static/css/main.073c9b0a.css.map",
-    "main.8adc24d8.js.map": "/%20//PavelKrevchik.github.io/Front-end-script-01/static/js/main.8adc24d8.js.map",
-    "787.177e23c2.chunk.js.map": "/%20//PavelKrevchik.github.io/Front-end-script-01/static/js/787.177e23c2.chunk.js.map"
+    "main.css": "/Front-end-script-01/static/css/main.073c9b0a.css",
+    "main.js": "/Front-end-script-01/static/js/main.b4a09719.js",
+    "static/js/787.177e23c2.chunk.js": "/Front-end-script-01/static/js/787.177e23c2.chunk.js",
+    "index.html": "/Front-end-script-01/index.html",
+    "main.073c9b0a.css.map": "/Front-end-script-01/static/css/main.073c9b0a.css.map",
+    "main.b4a09719.js.map": "/Front-end-script-01/static/js/main.b4a09719.js.map",
+    "787.177e23c2.chunk.js.map": "/Front-end-script-01/static/js/787.177e23c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.8adc24d8.js"
+    "static/js/main.b4a09719.js"
   ]
 }
